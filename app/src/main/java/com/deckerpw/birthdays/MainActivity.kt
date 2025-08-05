@@ -63,7 +63,7 @@ val bebasNeue = FontFamily(
     Font(R.font.bebas_neue, FontWeight.Normal)
 )
 
-val db = Database("http://192.168.178.81:52280")
+val db = Database("http://play.deckerpw.com:52280")
 var birthdays by mutableStateOf(mutableListOf<Birthday>())
 
 class MainActivity : ComponentActivity() {
