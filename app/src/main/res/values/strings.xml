@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Birthdays</string>
+    <string name="btn_celebrate">Celebrate %1$s\'s birthday!</string>
+    <string name="txt_days_until">days until next birthday</string>
+    <string name="txt_pass_dialog_title">Enter password</string>
+    <string name="txt_pass_dialog_label">Password</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_apply">Apply</string>
+    <string name="txt_video">Video</string>
+    <string name="txt_date">Date</string>
+    <string name="txt_name">Name</string>
+    <string name="title_create_birthday">Create Birthday</string>
+    <string name="btn_delete">Delete</string>
+    <string name="title_change_video">Change Video</string>
+</resources>

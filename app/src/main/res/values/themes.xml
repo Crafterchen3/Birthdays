@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Birthdays" parent="Theme.SplashScreen">
+        <!-- Deine App-typischen Einstellungen -->
+        <item name="android:windowSplashScreenBackground">@color/gray</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+
+        <!-- Weitere App-Designs, falls nötig -->
+        <item name="android:colorBackground">@android:color/white</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+</resources>

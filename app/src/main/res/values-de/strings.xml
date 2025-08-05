@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_celebrate">%1$s\'s Geburtstag feiern!</string>
+    <string name="txt_days_until">Tage übrig</string>
+    <string name="txt_pass_dialog_title">Passwort eingeben</string>
+    <string name="txt_pass_dialog_label">Passwort</string>
+    <string name="btn_ok">Ok</string>
+    <string name="btn_cancel">Abbrechen</string>
+    <string name="btn_apply">Anwenden</string>
+    <string name="txt_video">Video</string>
+    <string name="txt_date">Datum</string>
+    <string name="txt_name">Name</string>
+    <string name="title_create_birthday">Geburtstag erstellen</string>
+    <string name="btn_delete">Löschen</string>
+    <string name="title_change_video">Video ändern</string>
+</resources>
